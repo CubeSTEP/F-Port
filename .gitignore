@@ -1,0 +1,12 @@
+# Build artifacts
+/build-fprime-automatic-native
+/build-artifacts
+
+# IDE specific files
+.settings/
+.metadata/
+*.swp
+
+# Other temporary files
+*.log
+
